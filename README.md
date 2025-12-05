@@ -1,8 +1,11 @@
 # Brain Networks for Learning: Technical Documentation
 
 **Course**: COP5537 Network Optimization
+
 **Project**: Network Analysis of Brain Connectivity
+
 **Author**: Soleil Cordray
+
 **Submission Date**: December 5, 2025
 
 ---
