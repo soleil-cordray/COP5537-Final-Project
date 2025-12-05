@@ -1,0 +1,9 @@
+{
+  "n_nodes": 90,
+  "n_edges": 3346,
+  "density": 0.8354556803995006,
+  "avg_clustering": 0.46624515223185514,
+  "avg_path_length_largest_component": 1.1645443196004994,
+  "is_connected": true,
+  "largest_component_size": 90
+}

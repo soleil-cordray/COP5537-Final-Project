@@ -1,0 +1,21 @@
+{
+  "attention_regions": [
+    "Parietal_Sup_L",
+    "Parietal_Sup_R",
+    "Parietal_Inf_L",
+    "Parietal_Inf_R",
+    "SupraMarginal_L",
+    "SupraMarginal_R",
+    "Angular_L",
+    "Angular_R"
+  ],
+  "memory_regions": [
+    "Hippocampus_L",
+    "Hippocampus_R",
+    "ParaHippocampal_L",
+    "ParaHippocampal_R",
+    "Amygdala_L",
+    "Amygdala_R"
+  ],
+  "attention_to_memory_max_flow": 170.73580037812167
+}
